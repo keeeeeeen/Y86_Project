@@ -1,2 +1,2 @@
 # Y86_Project
-Y86 Assembler and Simulator
+Y86 Assembler and Processor
